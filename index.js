@@ -10,5 +10,4 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 /* Write your implementation of displayMessage() */
 function greeting(time){
-  if time = 12 
 }
